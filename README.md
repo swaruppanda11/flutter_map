@@ -10,10 +10,7 @@ A versatile mapping package for Flutter. Simple and easy to learn, yet completel
 [![Open Issues](https://badgen.net/github/open-issues/fleaflet/flutter_map?label=Open+Issues&color=green)](https://GitHub.com/fleaflet/flutter_map/issues)
 [![Open PRs](https://badgen.net/github/open-prs/fleaflet/flutter_map?label=Open+PRs&color=green)](https://GitHub.com/fleaflet/flutter_map/pulls)
 
-## [Donate](https://docs.fleaflet.dev/supporters#support-us)
 
-We now accept one-time donations via Stripe! We're extremely grateful for anything you can spare. We'll donate 15% of what we receive to the OpenStreetMap Foundation, as a thanks for their excellent work.
-For more information, details about benefits, and the link to donate, please see [Donate](https://docs.fleaflet.dev/supporters#support-us).
 
 ## [Documentation](https://docs.fleaflet.dev/)
 
